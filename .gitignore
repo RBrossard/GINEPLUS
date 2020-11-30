@@ -1,0 +1,11 @@
+runs
+lightning_logs
+test.py
+__pycache__
+.idea
+to_keep
+experiment.sh
+log.txt
+dataset
+\#*\#
+log*
