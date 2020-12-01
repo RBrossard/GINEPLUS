@@ -1,6 +1,6 @@
 This is a PyTorch implementation of our paper:
 
-[Graph convolutions that can finally model local structure - Rémy Brossard, Oriel Frigo, David Dehaene (2020)](Graph convolutions that can finally model local structure)
+[Graph convolutions that can finally model local structure - Rémy Brossard, Oriel Frigo, David Dehaene (2020)](https://arxiv.org/abs/2011.15069)
 
 # Installation
 ```
