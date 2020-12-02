@@ -28,7 +28,7 @@ In order to reproduce the statistics, we provide a script `reproduce-ogbg-molpcb
 that runs the experiment five times and agglomerate statistics using `stats.py`. 
 (NB: Due to random initialisation, the numbers might be slightly different, as the random seeds are not controlled.)
 
-##Detailed hyperparameters
+## Detailed hyperparameters
 
 Essential model and training hyperparameters:
 ```
